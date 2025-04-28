@@ -41,5 +41,5 @@ Before running the project, make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/firewall-simulator.git
+   git clone https://github.com/imenedjelili/firewall_simulator.git
    cd firewall-simulator
